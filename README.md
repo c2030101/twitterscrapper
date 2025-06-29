@@ -21,7 +21,7 @@ A Python-based Twitter scraper built with `twikit` that collects tweets based on
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/c2030101/twitterscrapper.git
 cd twitterscrapper-1
 ```
 
